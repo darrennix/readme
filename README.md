@@ -95,13 +95,12 @@ Prioritize systematically
 
 I think of this as a 3-dimensional matrix, where the axis are:
 
-- Number of people affected
-- Strength of effect
-- Difficulty (omitted from chart for simplicity)
+- Impact (number of people times strength of effect)
+- Ease (easier is better)
 
-Avoid working on things that weakly affect a small number of people.  See 80/20.
+Avoid working on time-consuming things that weakly affect a small number of people.  See 80/20.
 
-![](https://lh3.googleusercontent.com/5NIra6bTl4WG8RQ7Ek8EQh-darrq6Pwdd5aAxIEBNKOJ6x_z9zE6yfk9cZsBQqP_-mphACEXsoPghxjDfS8n76mp3CjDGy1nZwXvPukJlQEpGMvpeOLyRoYdwcl4-7AxoWzsnVPx)
+
 
 Teams should operate like pro sports teams
 ------------------------------------------

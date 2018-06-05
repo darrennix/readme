@@ -100,7 +100,7 @@ I think of this as a 3-dimensional matrix, where the axis are:
 
 Avoid working on time-consuming things that weakly affect a small number of people.  See 80/20.
 
-
+![image](https://user-images.githubusercontent.com/738245/41002466-7945b9a6-68d9-11e8-9a88-dfd750b1dcb6.png)
 
 Teams should operate like pro sports teams
 ------------------------------------------

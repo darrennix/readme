@@ -93,10 +93,10 @@ I am always looking for the parts of a thing that are in the bad side of the [Pa
 Prioritize systematically
 -------------------------
 
-I think of this as a 3-dimensional matrix, where the axis are:
+I think of this as a matrix:
 
 - Impact (number of people times strength of effect)
-- Ease (easier is better)
+- Ease
 
 Avoid working on time-consuming things that weakly affect a small number of people.  See 80/20.
 

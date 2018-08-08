@@ -233,15 +233,15 @@ What matters for managers
 
 ### Q12
 Strive to earn a strong "Yes!" from your team on these twelve questions:
-- I know what's expected of me in job each day.  
+- I know what's expected of me in my job each day.  
 - I have all necessary tools to do my job.  
-- I'm given opportunity to do my very best.  
-- My work has been recognized in past week.
+- I'm given the opportunity to do my very best.  
+- My work has been recognized in the past week.
 - My supervisor truly cares about me as a human being.  
 - I feel my opinion makes a difference.  
 - I believe in my company's mission and feel my job matters.  
 - My coworkers are doing great work and care as much as I do.  
-- I've developed good friends on job and feel comfortable.  
+- I've developed good friends on the job and feel comfortable.  
 - Someone talks to me about my performance every quarter.  
 - I feel I'm getting ample opportunities to grow and learn.
 

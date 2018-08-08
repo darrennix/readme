@@ -18,6 +18,60 @@ Here are my responsibilities:
 - Manage cross project priorities and ensure we have the right skills on each
 - Attract, retain and grow high-performing individuals and teams
 
+
+North Star Principles
+=====================
+
+Heavily bias towards action
+---------------------------
+
+Meetings where we debate potential directions are valuable, but I expect the discussion to result in a decision by the end of the meeting.  I believe that starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to discuss.
+
+80/20
+-----
+
+I am always looking for the parts of a thing that are in the bad side of the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle).  This often results in my wanting to simplify features or our approach.
+
+Prioritize systematically
+-------------------------
+
+I think of this as a matrix:
+
+- Impact (number of people times strength of effect)
+- Ease
+
+Avoid working on time-consuming things that weakly affect a small number of people.  See 80/20.
+
+![image](https://user-images.githubusercontent.com/738245/41002466-7945b9a6-68d9-11e8-9a88-dfd750b1dcb6.png)
+
+Teams should operate like pro sports teams
+------------------------------------------
+
+I'm not a sports fan, but the analogy fits.  My thinking on teams most closely aligns with Netflix's philosophy (<https://hbr.org/2014/01/how-netflix-reinvented-hr>).
+
+We are high-performing professionals who have come together to achieve a shared team goal: to help people get jobs; and to achieve personal professional goals: career success and fulfillment.  Because we are high-performing professionals; there are many teams we could be on at Indeed or at other companies. Our team must continually re-earn its spot as the best team to be on or else our teammates will leave for other teams.  When someone is not delivering what the team needs, we coach them. If coaching doesn't work, we ask them to leave the team.
+
+Disagree and commit
+-------------------
+
+Amazon says it more succinctly than I can...
+
+Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
+
+<http://www.amazonianblog.com/2016/11/what-it-means-to-disagree-and-commit-and-how-i-do-it.html>
+
+Shamelessly imitate
+-------------------
+
+I will frequently ask:
+
+-   What do other teams at Indeed do to solve this?
+-   What do our competitors do?
+-   Who has done something similar before?
+
+Knowing the answers is table stakes before we begin discussing our approach.
+
+
 Our Average Week
 ================
 
@@ -77,57 +131,6 @@ Very few things are more important than talking to you if you want to talk to me
 
 Heard a rumour? Need clarification on something? Blocked? I'd love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don't need to wait for our next scheduled 1:1. Feel free to put something in my calendar, don't feel like you need to ask first; just put a summary agenda in the calendar invite so I can triage appropriately.  Is my calendar full? Send me a message and I'll very likely be able to move something around.
 
-North Star Principles
-=====================
-
-Heavily bias towards action
----------------------------
-
-Meetings where we debate potential directions are valuable, but I expect the discussion to result in a decision by the end of the meeting.  I believe that starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to discuss.
-
-80/20
------
-
-I am always looking for the parts of a thing that are in the bad side of the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle).  This often results in my wanting to simplify features or our approach.
-
-Prioritize systematically
--------------------------
-
-I think of this as a matrix:
-
-- Impact (number of people times strength of effect)
-- Ease
-
-Avoid working on time-consuming things that weakly affect a small number of people.  See 80/20.
-
-![image](https://user-images.githubusercontent.com/738245/41002466-7945b9a6-68d9-11e8-9a88-dfd750b1dcb6.png)
-
-Teams should operate like pro sports teams
-------------------------------------------
-
-I'm not a sports fan, but the analogy fits.  My thinking on teams most closely aligns with Netflix's philosophy (<https://hbr.org/2014/01/how-netflix-reinvented-hr>).
-
-We are high-performing professionals who have come together to achieve a shared team goal: to help people get jobs; and to achieve personal professional goals: career success and fulfillment.  Because we are high-performing professionals; there are many teams we could be on at Indeed or at other companies. Our team must continually re-earn its spot as the best team to be on or else our teammates will leave for other teams.  When someone is not delivering what the team needs, we coach them. If coaching doesn't work, we ask them to leave the team.
-
-Disagree and commit
--------------------
-
-Amazon says it more succinctly than I can...
-
-Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
-
-<http://www.amazonianblog.com/2016/11/what-it-means-to-disagree-and-commit-and-how-i-do-it.html>
-
-Shamelessly imitate
--------------------
-
-I will frequently ask:
-
--   What do other teams at Indeed do to solve this?
--   What do our competitors do?
--   Who has done something similar before?
-
-Knowing the answers is table stakes before we begin discussing our approach.
 
 Feedback
 ========
@@ -206,6 +209,41 @@ Bring your friends
 ------------------
 
 We're growing the team and you know who you want to work with.
+
+What matters for managers
+======
+[First, Break All The Rules](https://www.amazon.com/First-Break-All-Rules-Differently/dp/1595621113) resonated with me.  Some of its points are controversial; if you disagree, please read the book and then lets discuss.
+
+### Focus on each employee's strengths and make best use of them.
+- Differentiate between talents, skills, and knowledge.  Skills and knowledge can be trained rapidly; talents can not.
+- Stop trying to fix someone's "weaknesses" aka "areas of opportunity". Instead, double down on their strengths.
+- Finding the right fit is what matters more than anything else -- match the person's talents with individual roles; don't think of people as interchangeable. 
+- Confront poor performance immediately and either find another role that plays to their strengths or terminate. 
+
+### Invest the most time in your most productive team members.
+- The (wrong) tendency is to over-invest in your weakest performers at the expense of your strongest performers.
+- Capitalize on making your productive team members as good as they can be.
+- Evaluate employee performance every quarter and focus on individual strengths and how to leverage them (not on areas that can improve). 
+
+### Define the right outcomes for your team and let them do things their own way.
+- Give your direct reports the ability to hit goals in their own way rather than dictating the specific steps they should take -- build autonomy.  This lets each employee play to their personal strengths instead of following a template. 
+
+### The Golden Rule is wrong
+- Treat each person differently, according to their individual needs (not as you'd want to be treated). This requires knowing your employees well and understanding their personal lives and motivations.
+
+### Q12
+Strive to earn a strong "Yes!" from your team on these twelve questions:
+- I know what's expected of me in job each day.  
+- I have all necessary tools to do my job.  
+- I'm given opportunity to do my very best.  
+- My work has been recognized in past week.
+- My supervisor truly cares about me as a human being.  
+- I feel my opinion makes a difference.  
+- I believe in my company's mission and feel my job matters.  
+- My coworkers are doing great work and care as much as I do.  
+- I've developed good friends on job and feel comfortable.  
+- Someone talks to me about my performance every quarter.  
+- I feel I'm getting ample opportunities to grow and learn.
 
 Nuance
 ======

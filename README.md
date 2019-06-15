@@ -5,16 +5,17 @@ One of the working relationships we need to define is ours. The following is a u
 My Job[s]
 =========
 
-My title is Group Manager.  I didn't know what that meant when I joined Indeed.  It turns out that the answer is: keep operating as though I'm still CEO of Interviewed.  That means I invest 60% of my time working with Engineering, Content, and Product. The other 40% is hiring, Marketing, CS, and Sales.
+My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed.  Now that I'm leading CDQ, which includes assessments, my role is more like other Product Directors.  
 
-It's becoming increasingly rare that I directly build a product sketch, write code, or build an assessment. It feels weird being responsible for everything that happens on Assessments, whether good or bad, without directly touching the underlying work.
+It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to the Assessments codebase was back in February 2018.  It feels weird being responsible for everything that happens on CDQ, whether good or bad, without directly touching the underlying work.
 
 Here are my responsibilities:
 
 - Create a high level vision of the products we should build with Product team
-- Focus the Content team on building assessments that reach the most job seekers, have measurable impact, and ship quickly
+- Balance long and short term investments e.g. NPV net present value
+- Focus the teams on building things that reach the most job seekers, have measurable impact, and ship quickly
 - Ensure the Engineering team is set up for speed and quality
-- Represent Indeed Assessments to the rest of the organization
+- Represent CDQ to the rest of the organization
 - Manage cross project priorities and ensure we have the right skills on each
 - Attract, retain and grow high-performing individuals and teams
 
@@ -84,39 +85,37 @@ I keep a running notes file for every person I have 1:1s with.  When I think of
 
 ![](https://lh4.googleusercontent.com/6WEEp36bVEl44R8ILzbiuG33DijtFfwVqkKgQtEdqlvYSSPjQrjRXrcMM4WQJ7kjIozeiNggYOvWtmNO0VumqVSb5Tp8j0F3sRiKo3BBr5mcutm0cY1cQhceD2rPNX_UVn2XXuZS)
 
-We'll have a staff meeting with your peers every week for 60 minutes no matter what.  We use Loupe to enter the updates ahead of time. Similar to 1:1s, my goal is to move away from doing status updates at this meeting in favor of discussing issues of substance that affect the whole team.
 
 Communication
 =============
 
-Slack
------
-
-You can Slack me 24 hours a day. I like responding quickly.  Slack is my default, except for todos. I send task requests via email so they don't get lost in chatter.
-
 Email
 -----
 
-I use reminders in my inbox as to-do list and maintain inbox zero (with the help of Google Inbox's boomerang feature).
+I prefer email over Slack (this was not always true).
 
-I will respond to emails within 24 hours and usually the same day.
+I "process" my inbox to stay at inbox zero all the time.  That means I quickly scan messages to get the gist and then archive them.  If I can reply on the go, I do.  If the message requires more thought or is a long read, I *star* it and archive.  Then I'll read it later in the day when I have a block of open time.
+
+I will almost always respond to any email you send me within 24 hours and usually the same day.
 
 I'm conscious of switching to email when I want the discussion to be more thoughtful, slower, with longer responses than slack.
 
-SMS
----
+Slack
+-----
 
-I almost never SMS in a work context.
+I do respond to Slack messages but I'm not as reliable about it as I am with email.  I have all Slack notifications turned off on my phone and computer.
 
-Hangouts/Phone/In-person
+Zoom/Phone/In-person
 ------------------------
 
-For discussions that are emotionally nuanced or require lots of typing, I prefer to shift discussion from Slack to a high-bandwidth channel like a call or in person.
+For discussions that are emotionally nuanced or require lots of typing, I prefer to shift discussion from Slack to a high-bandwidth channel like a call or in person.  I encourage you to do the same.
 
 Meeting Protocol
 ----------------
 
-I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings.  I keep 99% of my calendar events public and default to allow-modify by guests; that means you can move the meeting without asking me.
+I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings.  I keep calendar events public by default and allow-modify by guests; that means you can move the meeting without asking me.  
+
+I think it's rude to schedule a meeting with someone and not have the meeting be editable -- this prevents the person from adding notes, adding rooms, rescheduling, etc.  I highly recommend changing your defaults to allow-modify.
 
 If a meeting completes its intended purpose before it's scheduled to end, let's give the time back to everyone. If it's clear the intended goal won't be achieved in the allotted time, let's stop the meeting before time is up and determine how to finish the meeting later.
 
@@ -142,11 +141,11 @@ When/how?
 
 I don't believe in storing feedback and then scheduling a time to provide it. If I have feedback to give you I'll work to provide it as soon as possible, in the moment if I can unless I'm feeling emotionally charged and need time to reflect. It's unlikely it'll start with "I have some feedback to give you", instead it'll probably start with, "I observed that..."
 
-We will have quarterly reviews, but those should mostly be a rollup of feedback you've already heard during the quarter.
+We will have "career chats" every 4-6 weeks so I remember to give you thoughtful feedback, but those should mostly be a rollup of feedback you've already heard during the month if I'm doing it right.
 
-I will ask you for feedback often.  I will keep asking even if you say you don't have any feedback.  I appreciate those who take the time to give me thoughtful feedback because it shows that they care about helping me improve.
+I aspire to ask you for feedback on me, but I don't do it often enough.  Please offer it to me.  I appreciate those who take the time to give me thoughtful feedback because it shows that they care about helping me improve.
 
-Three dimensions are required for people to continue to give you feedback:
+I know that three dimensions are required for people to continue to give you feedback:
 
 ### Safety
 Unlikelihood of being punished for giving feedback. Should be high.
@@ -161,6 +160,11 @@ Let me know if I don't do well on any of these three dimensions.
 
 How can I help you
 ==================
+
+Product/engineering development
+---------------
+
+I *love* building products.  I would love to discuss your ideas at the inception stage, at 30%, and at 90%.  I'm particularly sensitive to building good UX.  Good UX is highly intuitive ("don't make me think"), consistent, and visually attractive.
 
 Provide context
 ---------------
@@ -190,6 +194,11 @@ Do amazing work
 
 This is the expectation. Let me know if there is something preventing you from accomplishing this.
 
+Work hard
+---------------
+
+I don't expect you to work 80 hours a week; but I do expect more than 9-5 M-F when we're deep in a project.  There will be natural lulls when we can take it easy.
+
 Disagree with me
 ----------------
 
@@ -205,10 +214,11 @@ Communicate
 
 One of my jobs is to provide context. Are you missing some? Let me know and I'll fill you in or go find out.
 
-Bring your friends
-------------------
+Be autonomous
+---------------
 
-We're growing the team and you know who you want to work with.
+Instead of sending an email asking, "Can I ...", say "I intend to ... because ...".  Then proceed with your intentions unless you hear back otherwise.
+
 
 What matters for managers
 ======

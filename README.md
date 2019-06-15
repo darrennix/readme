@@ -5,9 +5,9 @@ One of the working relationships we need to define is ours. The following is a u
 My Job[s]
 =========
 
-My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed.  Now that I'm leading CDQ, which includes assessments, my role is more like other Product Directors.  
+My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed.  Now that I'm leading CDQ, which includes Assessments, my role is more like other Product Directors.  
 
-It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to the Assessments codebase was back in February 2018.  It feels weird being responsible for everything that happens on CDQ, whether good or bad, without directly touching the underlying work.
+It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to the Assessments codebase was back in February 2018 (I code on weekend projects instead).  It feels weird being responsible for everything that happens on CDQ, whether good or bad, without directly touching the underlying work.
 
 Here are my responsibilities:
 

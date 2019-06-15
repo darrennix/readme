@@ -11,14 +11,11 @@ It's becoming increasingly rare that I directly build a product sketch or write 
 
 Here are my responsibilities:
 
-- Create a high level vision of the products we should build with Product team
+- Create high level plans for the products we should build with Product and Engineering teams
 - Balance long and short term investments e.g. NPV net present value
-- Focus the teams on building things that reach the most job seekers, have measurable impact, and ship quickly
-- Ensure the Engineering team is set up for speed and quality
 - Represent CDQ to the rest of the organization
-- Manage cross project priorities and ensure we have the right skills on each
 - Attract, retain and grow high-performing individuals and teams
-
+- Develop team culture that is pragmatic, impact-focused, fast, and rewarding
 
 North Star Principles
 =====================

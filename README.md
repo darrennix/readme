@@ -166,7 +166,7 @@ I *love* building products.  I would love to discuss your ideas at the inception
 Provide context
 ---------------
 
-Most of my day is spent collecting and sharing context/information across teams on Assessments and products at Indeed, and helping setting priorities. I'll try to push information to you as much as I can but feel free to ask about anything else.
+Most of my day is spent collecting and sharing context/information across teams and products at Indeed, and helping setting priorities. I'll try to push information to you as much as I can but feel free to ask about anything else.
 
 Provide an outside(ish) perspective
 -----------------------------------

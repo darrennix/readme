@@ -17,7 +17,7 @@ My Job[s]
 
 My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed with oversight of our engineering, product, and sales.  Once I started leading CDQ and now the Candidates T1, my role feels more like a conventional Product Director role.
 
-It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to the Assessments codebase was back in February 2018 (I code on weekend projects instead).  It feels weird being responsible for everything that happens on CDQ, whether good or bad, without directly touching the underlying work.
+It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to an Indeed production codebase was back in February 2018 (I code on weekend projects instead).  It feels weird being responsible for everything that happens, the good and the bad, without directly touching the underlying work.
 
 Here are my responsibilities:
 

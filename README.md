@@ -158,7 +158,7 @@ I know that three dimensions are required for people to continue to give you fee
 ### Safety
 Unlikelihood of being punished for giving feedback. Should be high.
 
-In particular, I love to debate ideas in the moment.  Some folks would prefer to be to digest and give feedback later after some thought.  I try to pick up on that, but please help me by pointing out things I can do create a stronger environment of psychological safety for you.
+In particular, I love to debate ideas in the moment.  Some folks would prefer to digest and discuss asynchronously, after some thought.  I try to pick up on that, but please help me by pointing out things I can do create a stronger environment of psychological safety for you.
 
 ### Effort
 The amount of work in order to give feedback. Should be low.

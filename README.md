@@ -15,7 +15,7 @@ This should be a quick read... it's broken up into:
 My Job[s]
 =========
 
-My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed.  Now that I'm leading CDQ, which includes Assessments, my role is more like other Product Directors.  
+My title is Group Manager.  I didn't know what that meant when I joined Indeed.  For a long time, that meant just continuing to run Assessments as though I was still CEO of Interviewed with oversight of our engineering, product, and sales.  Once I started leading CDQ and now the Candidates T1, my role feels more like a conventional Product Director role.
 
 It's becoming increasingly rare that I directly build a product sketch or write code -- in fact, my last commit to the Assessments codebase was back in February 2018 (I code on weekend projects instead).  It feels weird being responsible for everything that happens on CDQ, whether good or bad, without directly touching the underlying work.
 
@@ -23,7 +23,7 @@ Here are my responsibilities:
 
 - Create high level plans for the products we should build with Product and Engineering teams
 - Balance long and short term investments e.g. NPV net present value
-- Represent CDQ to the rest of the organization
+- Represent SMB Candidates to the rest of the organization
 - Attract, retain and grow high-performing individuals and teams
 - Develop team culture that is pragmatic, impact-focused, fast, and rewarding
 

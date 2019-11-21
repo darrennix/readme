@@ -3,12 +3,15 @@ Hi, welcome to the team. I'm so glad you are here at Indeed.
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
 
 This should be a quick read... it's broken up into:
-- My jobs
+- My job
 - North star principles
 - Communication style
+- Work hours
 - Giving feedback
 - How I can help you
+- How you can help me
 - What matters for managers
+- Nuance
 
 
 
@@ -80,17 +83,6 @@ I will frequently ask:
 Knowing the answers is table stakes before we begin discussing our approach.
 
 
-Our Average Week
-================
-
-If you're one of my direct reports, we'll have a 1:1 every week for at least 30 minutes.
-- 1:1s are for you
-- 1:1s are not for status updates
-- I'd rather discuss topics of substance and get status updates via email
-
-I keep a running notes file for every person I have 1:1s with.  When I think of something I want to talk about in our next 1:1, I leave myself a note.  During our 1:1, I'll cross things off and add comments.
-
-
 Communication Style
 ===================
 
@@ -123,6 +115,17 @@ I go to a lot of meetings.  I aggressively prune the attendee list and frequenc
 I keep calendar events public by default and allow-modify by guests; that means you can move the meeting without asking me.  I think it's a bit inconsiderate to schedule a meeting with someone and not have the meeting be editable -- this prevents the person from adding notes, adding rooms, rescheduling, etc.  I highly recommend changing your defaults to allow-modify.
 
 If a meeting completes its intended purpose before it's scheduled to end, let's give the time back to everyone. If it's clear the intended goal won't be achieved in the allotted time, let's stop the meeting before time is up and determine how to finish the meeting later.
+
+Our Average Week
+----------------
+
+If you're one of my direct reports, we'll have a 1:1 every week for at least 30 minutes.
+- 1:1s are for you
+- 1:1s are not for status updates
+- I'd rather discuss topics of substance and get status updates via email
+
+I keep a running notes file for every person I have 1:1s with.  When I think of something I want to talk about in our next 1:1, I leave myself a note.  During our 1:1, I'll cross things off and add comments.
+
 
 Work hours
 ==========
@@ -193,6 +196,7 @@ Firefight
 ---------
 
 Don't hesitate to say: "I could use a hand with..." or "I screwed up: ..."
+
 
 How you can help me
 ===================

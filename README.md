@@ -83,7 +83,7 @@ Knowing the answers is table stakes before we begin discussing our approach.
 Our Average Week
 ================
 
-If you're one of my direct reports, we'll have a 1:1 every week for at least 30 minutes no matter what.
+If you're one of my direct reports, we'll have a 1:1 every week for at least 30 minutes.
 - 1:1s are for you
 - 1:1s are not for status updates
 - I'd rather discuss topics of substance and get status updates via email
@@ -97,7 +97,7 @@ Communication Style
 Email
 -----
 
-I prefer email over Slack (this was not always true).
+I prefer email over Slack (this was not true two years ago).
 
 I "process" my inbox to stay at inbox zero all the time.  That means I quickly scan messages to get the gist and then archive them.  If I can reply on the go, I do.  If the message requires more thought or is a long read, I *star* it and archive.  Then I'll read it later in the day when I have a block of open time.
 
@@ -118,9 +118,9 @@ For discussions that are emotionally nuanced or require lots of typing, I prefer
 Meeting Protocol
 ----------------
 
-I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings.  I keep calendar events public by default and allow-modify by guests; that means you can move the meeting without asking me.  
+I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings. I try to foster small group meetings where everyone participates actively.
 
-I think it's rude to schedule a meeting with someone and not have the meeting be editable -- this prevents the person from adding notes, adding rooms, rescheduling, etc.  I highly recommend changing your defaults to allow-modify.
+I keep calendar events public by default and allow-modify by guests; that means you can move the meeting without asking me.  I think it's a bit inconsiderate to schedule a meeting with someone and not have the meeting be editable -- this prevents the person from adding notes, adding rooms, rescheduling, etc.  I highly recommend changing your defaults to allow-modify.
 
 If a meeting completes its intended purpose before it's scheduled to end, let's give the time back to everyone. If it's clear the intended goal won't be achieved in the allotted time, let's stop the meeting before time is up and determine how to finish the meeting later.
 

@@ -2,6 +2,16 @@ Hi, welcome to the team. I'm so glad you are here at Indeed.
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
 
+This should be a quick read... it's broken up into:
+- My jobs
+- North star principles
+- Communication style
+- Giving feedback
+- How I can help you
+- What matters for managers
+
+
+
 My Job[s]
 =========
 
@@ -80,11 +90,9 @@ If you're one of my direct reports, we'll have a 1:1 every week for at least 30 
 
 I keep a running notes file for every person I have 1:1s with.  When I think of something I want to talk about in our next 1:1, I leave myself a note.  During our 1:1, I'll cross things off and add comments.
 
-![](https://lh4.googleusercontent.com/6WEEp36bVEl44R8ILzbiuG33DijtFfwVqkKgQtEdqlvYSSPjQrjRXrcMM4WQJ7kjIozeiNggYOvWtmNO0VumqVSb5Tp8j0F3sRiKo3BBr5mcutm0cY1cQhceD2rPNX_UVn2XXuZS)
 
-
-Communication
-=============
+Communication Style
+===================
 
 Email
 -----
@@ -128,7 +136,7 @@ Very few things are more important than talking to you if you want to talk to me
 Heard a rumour? Need clarification on something? Blocked? I'd love to hear as soon as possible. Come by my desk, stop me in the hall, shoot me a Slack message, we don't need to wait for our next scheduled 1:1. Feel free to put something in my calendar, don't feel like you need to ask first; just put a summary agenda in the calendar invite so I can triage appropriately.  Is my calendar full? Send me a message and I'll very likely be able to move something around.
 
 
-Feedback
+Giving feedback
 ========
 
 I firmly believe that feedback is at the core of building trust and respect in a team.    
@@ -147,13 +155,16 @@ I know that three dimensions are required for people to continue to give you fee
 ### Safety
 Unlikelihood of being punished for giving feedback. Should be high.
 
+In particular, I love to debate ideas in the moment.  Some folks would prefer to be to digest and give feedback later after some thought.  I try to pick up on that, but please help me by pointing out things I can do create a stronger environment of psychological safety for you.
+
 ### Effort
 The amount of work in order to give feedback. Should be low.
 
 ### Benefit
 How likely is it that giving you feedback will materially impact your behavior? Should be high.
 
-Let me know if I don't do well on any of these three dimensions.
+Let me know if I don't do well on any of these three dimensions.  
+
 
 How can I help you
 ==================

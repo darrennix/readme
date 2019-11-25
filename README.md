@@ -110,7 +110,7 @@ For discussions that are emotionally nuanced or require lots of typing, I prefer
 Meeting Protocol
 ----------------
 
-I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings. I try to foster small group meetings where everyone participates actively.
+I go to a lot of meetings.  I aggressively prune the attendee list and frequency of meetings. I try to foster small group meetings where everyone participates actively.  Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am secretly thinking the whole time that the meeting should be smaller.
 
 I keep calendar events public by default and allow-modify by guests; that means you can move the meeting without asking me.  I think it's a bit inconsiderate to schedule a meeting with someone and not have the meeting be editable -- this prevents the person from adding notes, adding rooms, rescheduling, etc.  I highly recommend changing your defaults to allow-modify.
 
@@ -270,8 +270,6 @@ Strive to earn a strong "Yes!" from your team on these twelve questions:
 Nuance
 ======
 
+I've been completely deaf in my left ear since I was in a car accident when I was two.  If you say something and I don't acknowledge you, it's almost certainly because I didn't hear you -- wave at me or something.   I try to compensate for this by sitting on the leftmost chair when possible.
+
 I am an introvert and that means that prolonged exposure to humans is exhausting for me.
-
-Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am secretly thinking the whole time that the meeting should be smaller.
-
-When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
